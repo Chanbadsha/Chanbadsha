@@ -4,8 +4,8 @@
 - 👀 **Interests:** Programming, Problem-Solving, and Building Interactive Web Applications.  
 - 🌱 **Currently Learning:** Front-End Web Development (HTML, CSS, JavaScript, React.js).  
 - 💬 **Open to Collaboration On:** Beginner-friendly projects, open-source contributions, or web development challenges.  
-- 📫 **How to Reach Me:** [Your Email] | [LinkedIn](Your LinkedIn Profile URL).  
-- 😄 **Pronouns:** [Your Preferred Pronouns].  
+- 📫 **How to Reach Me:** [chanbadsha005@gmail.com] | [LinkedIn](Your LinkedIn Profile URL).  
+- 😄 **Pronouns:** [Badsha].  
 - ⚡ **Fun Fact:** I love solving coding puzzles and can spend hours debugging until I find the perfect solution!  
 
 ---
