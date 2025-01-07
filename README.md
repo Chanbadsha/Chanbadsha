@@ -8,9 +8,7 @@
 
 I thrive in **collaborative environments** and am eager to contribute to dynamic teams that create impactful, user-centric solutions.
 
-Check out my projects and 
-
-[Portfolio](https://chanbadshabhuiyan.netlify.app)
+Check out my projects and  [Portfolio](https://chanbadshabhuiyan.netlify.app)
 
 
 Currently, my main goal is to master modern web development technologies like React.js, Node.js, and MongoDB to bring creative ideas to life.
