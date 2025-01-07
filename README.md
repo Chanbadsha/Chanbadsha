@@ -1,7 +1,7 @@
 
 # Hi there! I'm Chan Badsha 👋
 
-## 🚀 Aspiring Full-Stack Developer | Lifelong Learner | Problem Solver
+## 🚀 Junior Full-Stack Developer | Lifelong Learner | Problem Solver
 
 ### About Me
 I’m a 20-year-old web development enthusiast, learning alongside my studies. I’m passionate about creating functional and visually appealing web applications. I thrive on challenges, even if I sometimes complete tasks at the last minute (working on improving that habit!).
@@ -35,11 +35,6 @@ I draw motivation from developers like Jhanker Mahbub, who inspire me to keep pu
 - **LinkedIn**: [Your LinkedIn Profile]  
 - **Email**: [Your Email Address]
 
-
-
-## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=Chanbadsha&theme=radical&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
-
 ---
 
 ## 📈 GitHub Stats
@@ -48,6 +43,9 @@ I draw motivation from developers like Jhanker Mahbub, who inspire me to keep pu
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chanbadsha&layout=compact&theme=radical)
 
 ---
+## 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=Chanbadsha&theme=radical&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 ✨ Let’s connect and grow together as developers!
 
