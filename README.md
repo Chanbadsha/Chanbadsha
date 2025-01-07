@@ -10,14 +10,34 @@
 
 ---
 
-## 🌟 Pinned Projects
-- [Portfolio Website](https://github.com/Chanbadsha/portfolio-website)  
-  A fully responsive portfolio to showcase my web development projects.  
+# Hi there! I'm [Your Name] 👋
 
-- [To-Do App](https://github.com/Chanbadsha/todo-app)  
-  A simple and functional to-do list built with React.js.  
+## 🚀 Aspiring Full-Stack Developer | Lifelong Learner | Problem Solver
 
----
+### About Me
+I’m a 20-year-old web development enthusiast, learning alongside my studies. I’m passionate about creating functional and visually appealing web applications. I thrive on challenges, even if I sometimes complete tasks at the last minute (working on improving that habit!).
+
+Currently, my main goal is to master modern web development technologies like React.js, Node.js, and MongoDB to bring creative ideas to life.
+
+### 🔭 What I'm Working On
+- **Bongo Learn**: A language-learning platform to make vocabulary building fun.
+- **Bangaliana Bites**: A restaurant website showcasing the vibrant flavors of Bangladeshi cuisine.
+- **Legacy Library**: A virtual library experience for book enthusiasts.
+
+### 🌱 Learning Goals
+I’m diving deep into:
+- React.js | Node.js | MongoDB | Tailwind CSS  
+- Firebase | HTML | CSS | JavaScript
+
+### 💡 My Inspirations
+I draw motivation from developers like Jhanker Mahbub, who inspire me to keep pushing boundaries and embrace lifelong learning.
+
+### 📫 Connect with Me
+- **GitHub**: [Your GitHub Profile Link]  
+- **LinkedIn**: [Your LinkedIn Profile]  
+- **Email**: [Your Email Address]
+
+
 
 ## 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=Chanbadsha&theme=radical&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
