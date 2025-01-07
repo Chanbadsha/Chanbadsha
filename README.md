@@ -1,16 +1,5 @@
 
-# 👋 Hi, I’m @Chanbadsha!
-
-- 👀 **Interests:** Programming, Problem-Solving, and Building Interactive Web Applications.  
-- 🌱 **Currently Learning:** Front-End Web Development (HTML, CSS, JavaScript, React.js).  
-- 💬 **Open to Collaboration On:** Beginner-friendly projects, open-source contributions, or web development challenges.  
-- 📫 **How to Reach Me:** [chanbadsha005@gmail.com] | [LinkedIn](Your LinkedIn Profile URL).  
-- 😄 **Pronouns:** Badsha.  
-- ⚡ **Fun Fact:** I love solving coding puzzles and can spend hours debugging until I find the perfect solution!  
-
----
-
-# Hi there! I'm [Your Name] 👋
+# Hi there! I'm Chan Badsha 👋
 
 ## 🚀 Aspiring Full-Stack Developer | Lifelong Learner | Problem Solver
 
@@ -18,6 +7,15 @@
 I’m a 20-year-old web development enthusiast, learning alongside my studies. I’m passionate about creating functional and visually appealing web applications. I thrive on challenges, even if I sometimes complete tasks at the last minute (working on improving that habit!).
 
 Currently, my main goal is to master modern web development technologies like React.js, Node.js, and MongoDB to bring creative ideas to life.
+
+
+- 👀 **Interests:** Programming, Problem-Solving, and Building Interactive Web Applications.  
+- 🌱 **Currently Learning:** Front-End Web Development (HTML, CSS, JavaScript, React.js).  
+- 💬 **Open to Collaboration On:** Beginner-friendly projects, open-source contributions, or web development challenges.   
+- 😄 **Pronouns:** Badsha.  
+- ⚡ **Fun Fact:** I love solving coding puzzles and can spend hours debugging until I find the perfect solution!  
+
+---
 
 ### 🔭 What I'm Working On
 - **Bongo Learn**: A language-learning platform to make vocabulary building fun.
