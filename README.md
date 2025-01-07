@@ -7,20 +7,15 @@
  I'm a passionate 20-year-old web developer with a strong focus on crafting functional and visually engaging web applications. I’m proficient in **React**, **JavaScript**, and **Node.js**, and I’m always excited to take on new challenges while expanding my skill set.
 
 I thrive in **collaborative environments** and am eager to contribute to dynamic teams that create impactful, user-centric solutions.
-
 Check out my projects and  [Portfolio](https://chanbadshabhuiyan.netlify.app)
 
-
 Currently, my main goal is to master modern web development technologies like React.js, Node.js, and MongoDB to bring creative ideas to life.
-
 
 - 👀 **Interests:** Programming, Problem-Solving, and Building Interactive Web Applications.  
 - 🌱 **Currently Learning:** Front-End Web Development (HTML, CSS, JavaScript, React.js).  
 - 💬 **Open to Collaboration On:** Beginner-friendly projects, open-source contributions, or web development challenges.   
 - 😄 **Pronouns:** Badsha.  
 - ⚡ **Fun Fact:** I love solving coding puzzles and can spend hours debugging until I find the perfect solution!  
-
----
 
 ### 🔭 What I'm Working On
 
