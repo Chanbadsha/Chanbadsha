@@ -69,9 +69,22 @@ I’m diving deep into:
 - Firebase | HTML | CSS | JavaScript
 
 ### 📫 Connect with Me
-- **GitHub**: [Your GitHub Profile Link]  
-- **LinkedIn**: [Your LinkedIn Profile]  
-- **Email**: [Your Email Address]
+<div align="left">
+  <a href="https://www.linkedin.com/in/chan-badsha-bhuiyan-602658317" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.facebook.com/ChanBadshaBhuiyan2004" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+  </a>
+  <a href="chanbadsha005@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+  <a href="+8801401213135" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+  </a>
+</div>
+
+###
 
 ---
 
