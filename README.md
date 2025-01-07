@@ -18,9 +18,11 @@ Currently, my main goal is to master modern web development technologies like Re
 ---
 
 ### 🔭 What I'm Working On
-- **Bongo Learn**: A language-learning platform to make vocabulary building fun.
-- **Bangaliana Bites**: A restaurant website showcasing the vibrant flavors of Bangladeshi cuisine.
-- **Legacy Library**: A virtual library experience for book enthusiasts.
+
+- **Bongo Learn**: A language-learning platform to make vocabulary building fun. [Live Demo](https://bongo-learn-63c73.web.app)
+- **Bangaliana Bites**: A restaurant website showcasing the vibrant flavors of Bangladeshi cuisine. [Live Demo](https://bangaliana-bites.netlify.app)
+- **Legacy Library**: A virtual library experience for book enthusiasts. [Live Demo](https://legacylibrary-906c1.web.app)
+
 
 ### 🌱 Learning Goals
 I’m diving deep into:
