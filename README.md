@@ -79,9 +79,14 @@ I’m diving deep into:
   <a href="mailto:chanbadsha005@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
-  <a href="callto:+8801401213135" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
-  </a>
+<a href="https://wa.me/8801401213135" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" 
+       width="52" 
+       height="40" 
+       alt="WhatsApp logo" />
+</a>
+
+
 </div>
 
 ###
