@@ -174,17 +174,9 @@ A vocabulary learning platform that makes language learning fun and interactive.
 ---
 
 
-# 💬
+# 💬Favorite Quote
 
 > **"Building solutions that make an impact, one commit at a time."**
 
 ---
 
-<h3 align="center">
-Thanks for stopping by! 👋
-</h3>
-
-<p align="center">
-If you like my work, consider giving a ⭐ to my repositories.<br>
-Let's build something amazing together! 🚀
-</p>
