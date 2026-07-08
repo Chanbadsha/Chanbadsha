@@ -55,7 +55,7 @@ A community platform where entrepreneurs and innovators share startup ideas and 
 
 **Tech Stack:** Next.js • React • MongoDB • Express.js
 
-🔗 **Live:** https://startup-adda.vercel.app/
+🌐 [Live Demo]([https://rent-bari.vercel.app/](https://startup-adda.vercel.app/)) • 📂 [Repository](https://github.com/Chanbadsha/StartupAdda-Where-Great-Ideas-Begin)
 
 ---
 
@@ -65,7 +65,7 @@ A modern digital library platform for managing and discovering books.
 
 **Tech Stack:** React.js  • Node.js • Express.js • MongoDB
 
-🔗 **Live:** https://legacylibrary-906c1.web.app/
+🌐 [Live Demo](https://legacylibrary-906c1.web.app/) • 📂 [Repository](https://github.com/Chanbadsha/Legacy-Library)
 
 ---
 
@@ -75,7 +75,7 @@ A vocabulary learning platform that makes language learning fun and interactive.
 
 **Tech Stack:** React.js  • Node.js • Express.js • MongoDB
 
-🔗 **Live:** https://bongo-learn-63c73.web.app
+🌐 [Live Demo](https://bongo-learn-63c73.web.app) • 📂 [Repository](https://github.com/Chanbadsha/Bongo-Learn)
 
 ---
 
@@ -126,6 +126,12 @@ A vocabulary learning platform that makes language learning fun and interactive.
 </div>
 
 ---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
 ---
 
 # 💻 Most Used Languages
