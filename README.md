@@ -25,8 +25,9 @@ Currently, my main goal is to master modern web development technologies like Re
 
 ### 🔭 What I'm Working On
 
+- **Rent Bari**: A modern property rental and booking platform that connects tenants and property owners in Bangladesh and globally.  [Live Demo](https://rent-bari.vercel.app/)
+- **StartupAdda**: A modern startup idea-sharing platform where innovators, entrepreneurs, and creative thinkers can share ideas, explore trending concepts, and collaborate through community discussions. [Live Demo](https://startup-adda.vercel.app/)
 - **Bongo Learn**: A language-learning platform to make vocabulary building fun. [Live Demo](https://bongo-learn-63c73.web.app)
-- **Bangaliana Bites**: A restaurant website showcasing the vibrant flavors of Bangladeshi cuisine. [Live Demo](https://bangaliana-bites.netlify.app)
 - **Legacy Library**: A virtual library experience for book enthusiasts. [Live Demo](https://legacylibrary-906c1.web.app)
 
 <h2 align="left">I code with</h2>
@@ -79,7 +80,7 @@ I’m diving deep into:
   <a href="mailto:chanbadsha005@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
-<a href="https://wa.me/8801401213135" target="_blank">
+<a href="https://wa.me/8801806066550" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" 
        width="52" 
        height="40" 
