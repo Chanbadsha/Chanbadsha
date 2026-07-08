@@ -45,7 +45,7 @@ A modern property rental & booking platform connecting tenants and property owne
 
 **Tech Stack:** Next.js  • Node.js • Express.js • MongoDB • Stripe
 
-🔗 **Live:** https://rent-bari.vercel.app/
+🌐 [Live Demo](https://rent-bari.vercel.app/) • 📂 [Repository](https://github.com/Chanbadsha/RentBari-Find-your-perfect-home-anywhere-you-go)
 
 ---
 
@@ -128,7 +128,7 @@ A vocabulary learning platform that makes language learning fun and interactive.
 ---
 ---
 
-# 🔥 GitHub Streak
+# 💻 Most Used Languages
 
 <div align="center">
 
