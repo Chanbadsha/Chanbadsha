@@ -158,14 +158,24 @@ A vocabulary learning platform that makes language learning fun and interactive.
   <img src="https://github-profile-trophy.vercel.app/?username=Chanbadsha&theme=algolia&no-frame=true&no-bg=true&margin-w=15&margin-h=15" />
 </p>
 
----
-## 🏆 GitHub Achievements
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Chanbadsha&theme=algolia" />
-</p>
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Chanbadsha&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chanbadsha&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img src="https://streak-stats.demolab.com?user=Chanbadsha&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Chanbadsha&theme=react-dark&hide_border=true&area=true"/>
+
+</div>
 
 ---
+
 
 # 📫 Connect With Me
 
