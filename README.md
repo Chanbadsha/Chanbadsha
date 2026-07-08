@@ -121,6 +121,7 @@ A vocabulary learning platform that makes language learning fun and interactive.
 
 <div align="center">
 
+
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Chanbadsha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chanbadsha&layout=compact&theme=tokyonight&hide_border=true"/>
@@ -140,9 +141,6 @@ A vocabulary learning platform that makes language learning fun and interactive.
 ---
 
 # 📊 Contribution Graph
-
-
-<img width="676" height="483" alt="image" src="https://github.com/user-attachments/assets/acd48bcf-0088-445e-b0c8-dbfa1b543f3c" />
 
 
 <div align="center">
