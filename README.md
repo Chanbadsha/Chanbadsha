@@ -154,7 +154,8 @@ A vocabulary learning platform that makes language learning fun and interactive.
 # 🏆 GitHub Trophies
 
 <div align="center">
-https://github-profile-trophy.vercel.app/?chanbadsha=ryo-ma&theme=dracula
+
+<img src="https://github-profile-trophy.vercel.app/?chanbadsha=ryo-ma&theme=dracula"/>
 <img src="https://github-profile-trophy.vercel.app/?username=Chanbadsha&theme=radical&no-frame=true&margin-w=15&margin-h=15"/>
 
 </div>
