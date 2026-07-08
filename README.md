@@ -155,6 +155,9 @@ A vocabulary learning platform that makes language learning fun and interactive.
 
 <div align="center">
 
+![chanbadsha trophies](https://github-profile-trophy.vercel.app/?username=chanbadsha&theme=flat&row=1&column=6)
+
+
 <img src="https://github-profile-trophy.vercel.app/?username=Chanbadsha&theme=radical&no-frame=true&margin-w=15&margin-h=15"/>
 
 </div>
