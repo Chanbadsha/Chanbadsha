@@ -159,6 +159,11 @@ A vocabulary learning platform that makes language learning fun and interactive.
 </p>
 
 ---
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Chanbadsha&theme=algolia" />
+</p>
 
 ---
 
