@@ -117,16 +117,6 @@ A vocabulary learning platform that makes language learning fun and interactive.
 
 ---
 
-# 📈 GitHub Stats
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chanbadsha&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 # 🔥 GitHub Streak
 
 <div align="center">
