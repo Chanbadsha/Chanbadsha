@@ -149,16 +149,16 @@ A vocabulary learning platform that makes language learning fun and interactive.
 
 </div>
 
+
 ---
 
-# 🏆 GitHub Trophies
+## 🏆 GitHub Achievements
 
-<div align="center">
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Chanbadsha&theme=algolia&no-frame=true&no-bg=true&margin-w=15&margin-h=15" />
+</p>
 
-<img src="https://github-profile-trophy.vercel.app/?chanbadsha=ryo-ma&theme=dracula"/>
-<img src="https://github-profile-trophy.vercel.app/?username=Chanbadsha&theme=radical&no-frame=true&margin-w=15&margin-h=15"/>
-
-</div>
+---
 
 ---
 
