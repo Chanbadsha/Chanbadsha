@@ -43,7 +43,7 @@ I'm currently looking for **Frontend** and **Full-Stack Developer** opportunitie
 ## 🏠 Rent Bari
 A modern property rental & booking platform connecting tenants and property owners.
 
-**Tech Stack:** Next.js • TypeScript • Node.js • Express.js • MongoDB • Stripe
+**Tech Stack:** Next.js  • Node.js • Express.js • MongoDB • Stripe
 
 🔗 **Live:** https://rent-bari.vercel.app/
 
@@ -63,6 +63,8 @@ A community platform where entrepreneurs and innovators share startup ideas and 
 
 A modern digital library platform for managing and discovering books.
 
+**Tech Stack:** React.js  • Node.js • Express.js • MongoDB
+
 🔗 **Live:** https://legacylibrary-906c1.web.app/
 
 ---
@@ -70,6 +72,8 @@ A modern digital library platform for managing and discovering books.
 ## 📖 Bongo Learn
 
 A vocabulary learning platform that makes language learning fun and interactive.
+
+**Tech Stack:** React.js  • Node.js • Express.js • MongoDB
 
 🔗 **Live:** https://bongo-learn-63c73.web.app
 
@@ -136,6 +140,10 @@ A vocabulary learning platform that makes language learning fun and interactive.
 ---
 
 # 📊 Contribution Graph
+
+
+<img width="676" height="483" alt="image" src="https://github.com/user-attachments/assets/acd48bcf-0088-445e-b0c8-dbfa1b543f3c" />
+
 
 <div align="center">
 
