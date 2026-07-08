@@ -119,14 +119,11 @@ A vocabulary learning platform that makes language learning fun and interactive.
 
 # 📈 GitHub Stats
 
-<div align="center">
+## 📊 GitHub Stats
 
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Chanbadsha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chanbadsha&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Chanbadsha&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
