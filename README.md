@@ -144,19 +144,6 @@ A vocabulary learning platform that makes language learning fun and interactive.
 
 ---
 
-# 📊 Contribution Graph
-
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Chanbadsha&theme=react-dark&hide_border=true&area=true"/>
-
-</div>
-
-
-
----
-
 
 # 📫 Connect With Me
 
@@ -186,18 +173,38 @@ A vocabulary learning platform that makes language learning fun and interactive.
 
 ---
 
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
+
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js"/>
+
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript"/>
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js"/>
+
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express"/>
+
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb"/>
+
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma"/>
+
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql"/>
+
+</p>
+
 # 💬 Favorite Quote
 
-> **"Code. Learn. Build. Repeat." 🚀**
+> **"Building solutions that make an impact, one commit at a time."**
 
 ---
 
-<div align="center">
+<h3 align="center">
+Thanks for stopping by! 👋
+</h3>
 
-### ⭐ Thanks for visiting my profile!
-
-If you like my work, don't forget to ⭐ my repositories.
-
-**Happy Coding! 💙**
-
-</div>
+<p align="center">
+If you like my work, consider giving a ⭐ to my repositories.<br>
+Let's build something amazing together! 🚀
+</p>
