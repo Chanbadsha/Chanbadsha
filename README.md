@@ -126,6 +126,17 @@ A vocabulary learning platform that makes language learning fun and interactive.
 </div>
 
 ---
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://ghstats.dev/api/langs?username=chanbadsha&max_langs=6" alt="Top Languages" />
+
+</div>
+
+---
 
 # 📊 Contribution Graph
 
